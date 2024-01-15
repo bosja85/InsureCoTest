@@ -1,0 +1,18 @@
+﻿{
+  "Coverage": [
+    {
+      "Attribute": "Location",
+      "Include": [
+        "USA",
+        "Canada"
+      ]
+    },
+    {
+      "Attribute": "Peril",
+      "Exclude": [
+        "Tornado"
+      ]
+    }
+  ],
+  "MaxAmount": 3000
+}
